@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Leetcode Stats](https://leetcard.aaron1412/aaron1412)
+
 <!--
 **AoTechnologies/AoTechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
