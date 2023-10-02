@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Leetcode Stats](https://leetcard.aaron1412/AaronsLeet?theme=unicorn&extension=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/aaron1412?theme=unicorn&font=Kosugi&ext=heatmap)
 
 <!--
 **AoTechnologies/AoTechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
